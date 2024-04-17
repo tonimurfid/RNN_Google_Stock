@@ -2,11 +2,11 @@
 
 ## Overview
 
-This is a project for predicting the future stock prices of Google (GOOGL) using a Recurrent Neural Network (RNN) model. The project was developed as part of the DeepLearning course on Udemy.
+This is a project for predicting the future stock prices of Google using a Recurrent Neural Network (RNN) model. The project was developed as part of the DeepLearning course on Udemy.
 
 ## Dataset
 
-The dataset used in this project is the historical stock prices of Google (GOOGL) from 2015 to 2023. The data includes the following features:
+The dataset used in this project is the historical stock prices of Google from 2012 to 2017. The data includes the following features:
 
 - Date
 
@@ -17,8 +17,6 @@ The dataset used in this project is the historical stock prices of Google (GOOGL
 - Low
 
 - Close
-
-- Adjusted Close
 
 - Volume
 
